@@ -1,4 +1,6 @@
-# DFSS - batteries, lithography, photovoltaics, automotive, aerospace, chemical process
+# DFSS 
+
+batteries, lithography, photovoltaics, automotive, aerospace, chemical process
 
 1. Axiomatic Design
 
